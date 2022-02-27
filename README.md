@@ -110,7 +110,7 @@
            
             <a
               class="profile-card-social__item instagram"
-              href="https://www.instagram.com/mduy_support"
+              href="https://www.instagram.com/h4d3s_imp0ss1bl3"
               target="_blank"
             >
               <span class="icon-font">
@@ -130,7 +130,7 @@
            
             <a
               class="profile-card-social__item link"
-              href="https://www.sub89.site/"
+              href=""
               target="_blank"
             >
               <span class="icon-font">
@@ -154,7 +154,7 @@
           <form class="profile-card-form">
             <div class="profile-card-form__container">
               <textarea
-                placeholder="🔰DỊCH VỤ FACEBOOK🔰 👉TĂNG FOLLOW👈 👉SHARE ẢO👈 👉LIKE👈"
+                placeholder=Khanh BeDe ProVjp Uoc Duoc A Thoaidz Djt Vo Mom"
               ></textarea>
             </div>
             <div class="profile-card-form__bottom">
