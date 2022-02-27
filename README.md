@@ -16,11 +16,11 @@
       name="viewport"
     />
     <link
-      href="https://sv3.anh365.com/images/2022/01/11/1.jpg"
+      href="https://sv3.anh365.com/images/2022/02/27/16e2e479f5303ec6d19172d51b50102f.jpg"
       rel="shortcut icon"
       type="image/x-icon"
     />
-    <meta content="https://sv3.anh365.com/images/2022/01/11/1.jpg" property="og:image" />
+    <meta content="https://sv3.anh365.com/images/2022/02/27/16e2e479f5303ec6d19172d51b50102f.jpg" property="og:image" />
     <meta content="web của ae" property="og:url" />
     <meta content="website" property="og:type" />
     <meta content="Bồ Vương Quốc Thoại" property="og:title" />
@@ -54,7 +54,7 @@
     <div class="wrapper">
       <div class="profile-card js-profile-card">
         <div class="profile-card__img">
-          <img alt="profile card" src="https://sv3.anh365.com/images/2022/01/11/1.jpg" />
+          <img alt="profile card" src="https://sv3.anh365.com/images/2022/02/27/16e2e479f5303ec6d19172d51b50102f.jpg" />
         </div>
         <div class="profile-card__cnt js-profile-cnt">
           <div class="profile-card__name">
@@ -100,7 +100,7 @@
           <div class="profile-card-social">
             <a
               class="profile-card-social__item Fanfage"
-              href="https://www.facebook.com/100053818600599"
+              href="https://www.facebook.com/profile.php?id=100033287433607"
               target="_blank"
             >
               <span class="icon-font">
