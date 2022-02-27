@@ -10,7 +10,7 @@
   xmlns:expr="http://www.google.com/2005/gml/expr"
 >
   <head>
-    <title/>Bồ Vương Quốc Thoại</title>
+    <title>Bồ Vương Quốc Thoại</title>
     <meta
       content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
       name="viewport"
